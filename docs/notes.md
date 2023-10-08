@@ -1,7 +1,6 @@
 ## Project Requirements
 
-1. You must make a single page application (only one `index.html` file) using
-   `create-react-app`.
+🎯 1. You must make a single page application (only one `index.html` file) using `create-react-app`.
 
 🎯 2. Your app should use at least 3 components in a way that keeps your code well organized.
 
