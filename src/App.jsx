@@ -2,12 +2,9 @@ import { useState } from 'react'
 
 
 //main components
-//header component
 import Header from './components/Header'
-
-//main component
-
-//footer component
+import Main from './components/Main'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +13,7 @@ function App() {
     <>
       <Header />
       <Main />
+      <Footer />
     </>
   )
 }
