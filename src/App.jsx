@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { chracters } from './db'
+import { characters } from './db'
 //main components
 import Header from './components/Header'
 import Main from './components/Main'
