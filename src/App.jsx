@@ -1,12 +1,11 @@
 import { useState } from 'react'
-
-
+import { chracters } from './db'
 //main components
 import Header from './components/Header'
 import Main from './components/Main'
 import Footer from './components/Footer'
 
-function App() {
+const App = () => {
   const [count, setCount] = useState(0)
 
   return (
