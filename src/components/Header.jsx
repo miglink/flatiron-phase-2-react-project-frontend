@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-        <>
+        <div className="header">
             <header>
                 <h1>Disney</h1>
                 <h2>Character Information</h2>
@@ -12,7 +12,7 @@ const Header = () => {
                     </ul>
                 </nav>
             </header>
-        </>
+        </div>
     )
 }
 
