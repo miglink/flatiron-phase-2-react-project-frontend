@@ -2,18 +2,19 @@ import { useState } from 'react'
 import { characters } from './db'
 //main components
 import Header from './components/Header'
-import Main from './components/Main'
+import CharacterList from './components/CharacterList'
 import Footer from './components/Footer'
+
 
 const App = () => {
   const [count, setCount] = useState(0)
 
   return (
-    <>
+    <div>
       <Header />
-      <Main />
+      <CharacterList characters={characters}/>
       <Footer />
-    </>
+    </div>
   )
 }
 
