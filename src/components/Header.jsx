@@ -2,7 +2,8 @@ const Header = () => {
     return (
         <>
             <header>
-                <h1>My App</h1>
+                <h1>Disney</h1>
+                <h2>Character Information</h2>
                 <nav>
                     <ul>
                         <li><a href="some-id1">Some Link Title 1</a></li>
