@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 
 
 const App = () => {
-  
+  const [count, setCount] = useState(0) 
 
   return (
     <div>

@@ -8,11 +8,11 @@
     
 🎯 Be sure to include a nav bar or other UI element that allows users to navigate between routes.              |
 
-🎯 4. Use a `json-server` to create a RESTful API for your backend 
+✅ 4. Use a `json-server` to create a RESTful API for your backend 
 
-🎯 and make both a `GET` 
+✅ and make both a `GET` 
 
-🎯 and a `POST` request to the json server. 
+✅ and a `POST` request to the json server. 
 
 🎯 Use a form to make your post request
 

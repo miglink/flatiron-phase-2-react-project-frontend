@@ -1,7 +1,12 @@
 import React from 'react';
 import Character from './Character';
 
-const SearchBox = ({}) => (
+const SearchBox = ({}) => {
+    function searchChange(event) {
+
+    }
+
+    
 
     <div className='pa2'>
         <input 
@@ -11,6 +16,6 @@ const SearchBox = ({}) => (
             onChange={searchChange}>
         </input>
     </div>
-)
+}
 
 export default SearchBox;
