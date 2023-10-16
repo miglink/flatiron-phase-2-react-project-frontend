@@ -3,7 +3,7 @@ const Header = () => {
         <div className="header">
             <header>
                 <h1>Disney</h1>
-                <h2>Character Information</h2>
+                <h2>List of Characters</h2>
                 <nav>
                     <ul>
                         <li><a href="some-id1">Some Link Title 1</a></li>
